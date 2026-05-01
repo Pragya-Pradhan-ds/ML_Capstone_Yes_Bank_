@@ -1,0 +1,13 @@
+[ 2026-05-01 21:50:14,626 ] 25 YesBankLogger - INFO - Logging has been configured.
+[ 2026-05-01 21:50:14,697 ] 19 YesBankLogger - INFO - Starting data ingestion
+[ 2026-05-01 21:50:14,701 ] 24 YesBankLogger - INFO - Dataset loaded
+[ 2026-05-01 21:50:14,705 ] 40 YesBankLogger - INFO - Train-test split completed
+[ 2026-05-01 21:50:14,712 ] 31 YesBankLogger - INFO - Read data from artifacts\train.csv
+[ 2026-05-01 21:50:14,736 ] 31 YesBankLogger - INFO - Read data from artifacts\test.csv
+[ 2026-05-01 21:50:14,739 ] 43 YesBankLogger - INFO - Date column converted
+[ 2026-05-01 21:50:14,740 ] 43 YesBankLogger - INFO - Date column converted
+[ 2026-05-01 21:50:14,746 ] 86 YesBankLogger - INFO - Data Transformation completed
+[ 2026-05-01 21:50:14,748 ] 40 YesBankLogger - INFO - Training model started
+[ 2026-05-01 21:50:14,749 ] 45 YesBankLogger - INFO - Model training completed
+[ 2026-05-01 21:50:14,752 ] 47 YesBankLogger - INFO - R2 Score: 0.9907046745006218
+[ 2026-05-01 21:50:14,752 ] 48 YesBankLogger - INFO - MAE: 5.896270669836204

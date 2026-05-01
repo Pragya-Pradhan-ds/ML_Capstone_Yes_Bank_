@@ -1,0 +1,4 @@
+[ 2026-05-01 20:13:34,004 ] 25 YesBankLogger - INFO - Logging has been configured.
+[ 2026-05-01 20:13:34,008 ] 19 YesBankLogger - INFO - Starting data ingestion
+[ 2026-05-01 20:13:34,049 ] 24 YesBankLogger - INFO - Dataset loaded
+[ 2026-05-01 20:13:34,075 ] 40 YesBankLogger - INFO - Train-test split completed
